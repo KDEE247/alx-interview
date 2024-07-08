@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/node
 
 const request = require('request');
 
